@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @williamag929
 - 👀 I’m interested in new projects
-- 🌱 I’m currently learning DevOps
+- 🌱 I’m currently learning Azure Cloud
 - 💞️ I’m looking to collaborate on projects with Net Core, SOLID principles
 - 📫 How to reach me williamag929@gmail.com
 
