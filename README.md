@@ -59,9 +59,9 @@
 
 ## 📌 Featured Projects
 
-- 🔹 [baseshiftwork](https://github.com/williamag929/baseshiftwork) — Short description of what it does  
-- 🔹 [nexsignal](https://github.com/williamag929/nexsignal) — Short description of what it does  
-- 🔹 [quatum_motkra](https://github.com/williamag929/quatum_motkra) — Short description of what it does  
+- 🔹 [baseshiftwork](https://github.com/williamag929/baseshiftwork) — Shift/work scheduling and team coordination platform.  
+- 🔹 [nexsignal](https://github.com/williamag929/nexsignal) — Signal-driven app for real-time notifications and monitoring.  
+- 🔹 [quatum_motkra](https://github.com/williamag929/quatum_motkra) — Experimental project focused on smart automation workflows.  
 
 ---
 
