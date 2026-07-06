@@ -59,9 +59,9 @@
 
 ## 📌 Featured Projects
 
-- 🔹 [Project One](https://github.com/williamag929/REPO_NAME) — Short description of what it does  
-- 🔹 [Project Two](https://github.com/williamag929/REPO_NAME) — Short description of what it does  
-- 🔹 [Project Three](https://github.com/williamag929/REPO_NAME) — Short description of what it does  
+- 🔹 [baseshiftwork](https://github.com/williamag929/baseshiftwork) — Short description of what it does  
+- 🔹 [nexsignal](https://github.com/williamag929/nexsignal) — Short description of what it does  
+- 🔹 [quatum_motkra](https://github.com/williamag929/quatum_motkra) — Short description of what it does  
 
 ---
 
